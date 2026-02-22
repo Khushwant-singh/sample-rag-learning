@@ -1,1 +1,9 @@
-This file contains all the steps to create this project (Taken from ChatGPT)
+simple-rag-learning
+
+
+Repo structure
+simple-rag-learning/
+ ├── llamaindex_rag.ipynb
+ ├── langchain_rag.ipynb
+ ├── data/
+ └── README.md
